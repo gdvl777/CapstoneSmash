@@ -111,7 +111,7 @@ Clone this repository to your desired folder:
  
  ```bash
  cd my-folder
- git clone git@github.com:oovillagran/Portfolio-project.git
+ git clone git@github.com:gdvl777/CapstoneSmash.git
 ```
 
 ### Install
@@ -146,7 +146,7 @@ To run tests, execute the following command:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Oscar Villagran**
+👤 **Daniel Villalba Lynch**
 
 - GitHub: [@gdvl777](https://github.com/gdvl777)
 - LinkedIn: [Daniel Villalba Lynch](https://www.linkedin.com/in/dvillalba777)
