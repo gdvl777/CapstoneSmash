@@ -4,7 +4,7 @@
 <div align="center">
 
   <h3><b>CAPSTONE PROJECT MODULE 1</b></h3>
-  <h3><b>Conference Page - Creationism vs Evolution Global Summit 2023</b></h3>
+  <h3><b>WTT Smash SINGAPORE 2023</b></h3>
   <img src="images/Readme.png" alt="Readme Image">
 
 </div>
@@ -38,7 +38,7 @@
 # 📖 Capstone Project Module 1<a name="about-project"></a>
 
 
-**Creationism vs Evolution Global Summit 2023** is based on an online website for a conference according to design guidelines provided by Microverse. Trought this capstone project I show the main abilities adquired so far in the **Module 1 - The Portal**. In this Module I learned about HTML, CSS and an brief introduction to javaScript.
+**WTT Smash SINGAPORE 2023** is based on an online website for a conference according to design guidelines provided by Microverse. Trought this capstone project I show the main abilities adquired so far in the **Module 1 - The Portal**. In this Module I learned about HTML, CSS and an brief introduction to javaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
