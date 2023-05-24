@@ -530,7 +530,6 @@ body {
   .intro {
     padding: 0 0 5rem;
     width: 70%;
-    /* background-image: url(./images/Smash.png); */
     background-repeat: no-repeat;
     background-size: cover;
   }
