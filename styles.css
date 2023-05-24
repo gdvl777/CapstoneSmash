@@ -521,8 +521,9 @@ body {
     justify-content: center;
     margin: 0 auto;
     background-image: url(./images/about_bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    /*background-repeat: no-repeat;*/
+    background-position: center;
+    background-size: contain;
     border: #fff 1px solid;
     position: relative;
   }
