@@ -507,7 +507,7 @@ body {
 /* desktop media querie */
 @media only screen and (min-width: 768px) {
   .intro-main {
-    background-image: url(Images/bg.jpg);
+    background-image: url(Images/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -516,7 +516,7 @@ body {
   }
 
   .intro-about {
-    background-image: url(Images/bg.jpg);
+    background-image: url(Images/about_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     border: #fff 1px solid;
@@ -530,7 +530,7 @@ body {
   .intro {
     padding: 0 0 5rem;
     width: 70%;
-    background-image: url(./images/Smash.png);
+    /* background-image: url(./images/Smash.png); */
     background-repeat: no-repeat;
     background-size: cover;
   }
