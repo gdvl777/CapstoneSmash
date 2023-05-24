@@ -85,8 +85,6 @@
 
 - Here you will see a [Live Demo](https://gdvl777.github.io/) of my project.
 
-- This is the [Loom Walktrough Video]() of my project.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
