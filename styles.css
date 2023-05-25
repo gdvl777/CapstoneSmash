@@ -531,10 +531,11 @@ body {
   }
 
   .intro {
-    padding: 0 0 5rem;
+    padding: 0px 0px 4rem;
     width: 70%;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 6rem 0 0 12rem;
   }
 
   .hamburger {
