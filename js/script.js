@@ -102,7 +102,6 @@ const hamburger = document.querySelector('.hamburger');
 const navMenu = document.querySelector('.nav-menu');
 const navBarMenu = document.querySelector('.navbar-menu');
 const main = document.querySelector('.main');
-const footer = document.querySelector('.footer-about');
 const closeButton = document.createElement('button');
 const body = document.querySelector('body');
 
