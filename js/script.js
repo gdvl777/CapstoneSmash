@@ -125,6 +125,5 @@ document.querySelectorAll('.link-menu').forEach((m) => m.addEventListener('click
   hamburger.classList.remove('active');
   navMenu.classList.remove('active');
   main.classList.remove('active');
-  footer.classList.remove('active');
   body.classList.remove('overFlow');
 }));

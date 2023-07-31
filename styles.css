@@ -504,6 +504,10 @@ body {
   .program {
     display: none;
   }
+  .wttlogo {
+    display: none;
+    width: 280px;
+  }
 }
 
 /* desktop media querie */
